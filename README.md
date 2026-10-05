@@ -38,4 +38,4 @@ My life is busy with school, a full-time job, friends, and my girlfriend, and I 
 
 ## Goals
 
-This is a learning project. I'm building it myself to get hands-on with native Android development, and later with low-power embedded firmware. The decisions behind the project are tracked in [`decisions.md`](decisions.md).
+This is a learning project. I'm building it myself to get hands-on with native Android development, and later with low-power embedded firmware. The decisions behind the project are tracked in [`decisions.md`](docs/decisions.md).
