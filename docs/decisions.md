@@ -56,3 +56,12 @@
 - **Why:** I want to push into embedded systems and this is a great way to do so and make something practical and its low power
 - **Potential Options:** No physical device
 
+---
+
+## 10/04/2026: Planning Phase
+
+### Datatable Decisions
+
+- **Decision:** Make two tables one for events and one for Transactions
+- **Why:** Transactions are imported where events will be input by the user in the app so I can keep the data seperate and easier to work with
+- **Potential Options:** Using one big table
