@@ -1,5 +1,6 @@
 package com.lukebarnes22.chronos
 
+import android.R
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -12,6 +13,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.lukebarnes22.chronos.ui.theme.ProjectChronosTheme
+import com.lukebarnes22.chronos.data.Events
+import com.lukebarnes22.chronos.data.Transactions
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -45,3 +48,4 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
+
